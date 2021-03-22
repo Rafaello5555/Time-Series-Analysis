@@ -5,7 +5,13 @@ The data set measures the Consumer Price Index of different countries over a per
 
 # Contents
 Load data
+
 Explore data
+
 Prepare data
+
 Model selection
+
 Summary and next steps
+
+
