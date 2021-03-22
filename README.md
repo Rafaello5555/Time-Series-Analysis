@@ -4,13 +4,13 @@ The data set measures the Consumer Price Index of different countries over a per
 
 
 # Contents
-Load data
+Load data : Create a time series object
 
-Explore data
+Explore data : Check the stationarity of the time series -->  Seasonal decomposition & Dicky-Fuller test
 
-Prepare data
+Prepare data : Stationarizing the series
 
-Model selection
+Model selection : Optimize the ARIMA parameters and create the model. ACF and PACF plots to identify parameters. Use grid search for ARIMA. Train the model.  Test the model using forecasting
 
 Summary and next steps
 
